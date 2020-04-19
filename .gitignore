@@ -1,2 +1,8 @@
 .idea
 .DS_Store
+
+*/.ipynb_checkpoints
+
+lab4/data
+lab4/processed_data
+*.h5
